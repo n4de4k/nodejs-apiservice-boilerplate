@@ -1,5 +1,5 @@
 {
-  "name": "sucor-oms-appservice",
+  "name": "nodejs-apiservice-boilerplate",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
